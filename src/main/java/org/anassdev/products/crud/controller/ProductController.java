@@ -8,6 +8,6 @@ public class ProductController {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Welcome In This Web Appplication 2021-06";
+		return "Welcome In This Web Appplication 2021-06-22";
 	}
 }
